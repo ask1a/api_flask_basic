@@ -61,3 +61,12 @@ def api_id():
 
 
 app.run(port=5001)
+
+
+#You can check if you’re in the correct folder by running the pwd command. Once you’re in your project directory, run the Flask application with the command:
+
+#python api.py
+
+#You should see output similar to this:
+
+# * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
